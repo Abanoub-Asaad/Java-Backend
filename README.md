@@ -1,6 +1,6 @@
 # Java Backend Roadmap
 
-<details open="open">
+<details>
 <summary> Java </summary>
   <ol>
     <li>
