@@ -1,8 +1,11 @@
 # Java-Backend 
-In this repository, there's:
+> The start is always hard and confusing. I was doing a lot of search and watching a lot of videos to know how to start learning Backend with Java and to know the good resources to learn from. That's the reason why I created this repo, enjoy :)
+
+In this repository, you will find :
   - [A roadmap for learning Backend with Java](#roadmap)
   - [Resources for learning Java-Backend](#resources-for-learning-java-backend)
-  - [References of the roadmap](#references-of-the-roadmap).
+  - [References of the roadmap](#references-of-the-roadmap)
+  - [Want to contribute to this repository?](#contribution)
 
 # Roadmap
 ## 1. Java
@@ -225,3 +228,8 @@ In this repository, there's:
 - [Java Roadmap for Beginners](https://youtu.be/lXrr1OohGF0) 
 - [How to Master Spring Boot - Complete Spring Boot Roadmap](https://youtu.be/gQHs8pnlagM) 
 - [Learning Spring Boot in 2022 | Roadmap](https://youtu.be/YNEUMmtO_6k) 
+
+# Contribution
+If you think that anything can be improved in anyway, please do suggest :
+  - Open pull request with improvements
+  - Discuss ideas in issues.
