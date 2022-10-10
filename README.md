@@ -1,9 +1,9 @@
 # Java-Backend 
 In this repository, there's:
-  - [A roadmap for learning Backend with Java](https://github.com/Abanoub-Asaad/Java-Backend/edit/main/README.md#roadmap)
+  - [A roadmap for learning Backend with Java](#roadmap)
   - Resources for learning Java-Backend
   - Important Notes
-  - [References](https://github.com/Abanoub-Asaad/Java-Backend/edit/main/README.md#references).
+  - [References](#references).
 
 # Roadmap
 ## 1. Java
