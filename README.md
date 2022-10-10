@@ -8,10 +8,10 @@ In this repository, there's:
 # Roadmap
 ## 1. Java
 <details open>
-<summary> Learn Java </summary>
+<summary> <b>Learn Java</b> </summary>
   <ol>
     <li>
-      <a> ➤ Basics </a>
+      <a> Basics </a>
       <ul>
         <li><a> Classes, Variables, Loops etc </a></li>
         <li><a> OOPs </a></li>
@@ -19,7 +19,7 @@ In this repository, there's:
       </ul>
     </li>
     <li>
-      <a> ➤ Advanced </a>
+      <a> Advanced </a>
       <ul>
         <li><a> Design Patterns </a></li>
         <li><a> JVM </a></li>
@@ -29,10 +29,10 @@ In this repository, there's:
         <li><a> Garbge Collection </a></li>
       </ul>
     </li>
-    <li><a> ➤ Build Tools (Maven, Gradle, Ant) </a></li>
-    <li><a> ➤ Servers (Tomcat, Weblogic, JBOSS, WebShpere, Jetty) </a></li>
+    <li><a> Build Tools (Maven, Gradle, Ant) </a></li>
+    <li><a> Servers (Tomcat, Weblogic, JBOSS, WebShpere, Jetty) </a></li>
     <li>
-      <a> ➤ Testing </a>
+      <a> Testing </a>
       <ul>
         <li><a> Unit Testing </a></li>
         <li><a> Integeration Testing </a></li>
@@ -41,16 +41,16 @@ In this repository, there's:
         <li><a> Mockito </a></li>
       </ul>
     </li>
-    <li><a> ➤ Logging (Log4j, Log4j2, Logback). </a></li>
+    <li><a> Logging (Log4j, Log4j2, Logback). </a></li>
   </ol>
 </details>
 
 ## 2. Spring Framwork
 <details open>
-<summary> Learn Spring Framework </summary>
+<summary> <b>Learn Spring Framework</b> </summary>
   <ol>
     <li>
-      <a> ➤ Core </a>
+      <a> Core </a>
       <ul>
         <li><a> Bean Life Cycle </a></li>
         <li><a> Dependency Injection </a></li>
@@ -59,7 +59,7 @@ In this repository, there's:
       </ul>
     </li>
     <li>
-      <a> ➤ Web </a>
+      <a> Web </a>
       <ul>
         <li><a> Annotations </a></li>
         <li><a> MVC Structure </a></li>
@@ -69,11 +69,33 @@ In this repository, there's:
       </ul>
     </li>
     <li>
-      <a> ➤ AOP </a>
+      <a> AOP </a>
       <ul>
         <li><a> How AOP Works </a></li>
         <li><a> Creating PointCut, Join Point, Aspect etc. </a></li>
       </ul>
+    </li>
+  </ol>
+</details>
+
+## 3. Spring Security
+<details open>
+<summary> <b>Learn Spring Security</b> </summary>
+  <ol>
+    <li>
+      <a> Authentication </a>
+    </li>
+    <li>
+      <a> Authorization </a>
+    </li>
+    <li>
+      <a> OAuth2 </a>
+    </li>
+    <li>
+      <a> Form Authentications </a>
+    </li>
+    <li>
+      <a> JWT </a>
     </li>
   </ol>
 </details>
