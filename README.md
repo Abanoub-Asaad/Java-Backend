@@ -1,7 +1,14 @@
-# Java Backend Roadmap
+# Java-Backend 
+In this repository, there's:
+  - [A roadmap for learning Backend with Java](https://github.com/Abanoub-Asaad/Java-Backend/edit/main/README.md#roadmap)
+  - Resources for learning Java-Backend
+  - Important Notes
+  - [References](https://github.com/Abanoub-Asaad/Java-Backend/edit/main/README.md#references).
 
-<details>
-<summary> Java </summary>
+# Roadmap
+## 1. Java
+<details open>
+<summary> Learn Java </summary>
   <ol>
     <li>
       <a href="#-background"> ➤ Basics </a>
@@ -37,3 +44,10 @@
     <li><a href="#-references"> ➤ Logging (Log4j, Log4j2, Logback)</a></li>
   </ol>
 </details>
+
+# References
+| Topic            | Channel                                                      | Link |
+| ---------------- | ------------------------------------------------------------ | --- |
+| Java roadmap     | Daily Code Buffer             | https://youtu.be/lXrr1OohGF0 |
+| Spring Boot roadmap      | in28minutes              | https://youtu.be/gQHs8pnlagM |
+| Spring Boot roadmap interview     | in28minutes             | https://youtu.be/YNEUMmtO_6k |
