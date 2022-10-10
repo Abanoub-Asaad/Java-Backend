@@ -41,7 +41,7 @@ In this repository, there's:
         <li><a> Mockito </a></li>
       </ul>
     </li>
-    <li><a> Logging (Log4j, Log4j2, Logback). </a></li>
+    <li><a> Logging (Log4j, Log4j2, Logback) </a></li>
   </ol>
 </details>
 
@@ -72,7 +72,7 @@ In this repository, there's:
       <a> AOP </a>
       <ul>
         <li><a> How AOP Works </a></li>
-        <li><a> Creating PointCut, Join Point, Aspect etc. </a></li>
+        <li><a> Creating PointCut, Join Point, Aspect etc </a></li>
       </ul>
     </li>
   </ol>
@@ -96,6 +96,121 @@ In this repository, there's:
     </li>
     <li>
       <a> JWT </a>
+    </li>
+  </ol>
+</details>
+
+## 4. Spring Boot
+<details open>
+<summary> <b>Learn Spring Boot</b> </summary>
+  <ol>
+    <li>
+      <a> Importance of Spring Boot </a>
+    </li>
+    <li>
+      <a> Auto Configuration </a>
+    </li>
+    <li>
+      <a> Adding Configuration </a>
+    </li>
+    <li>
+      <a> Properties/YAML </a>
+    </li>
+    <li>
+      <a> Integerations with other Libraries/Framworks </a>
+    </li>
+  </ol>
+</details>
+
+## 5. REST API
+<details open>
+<summary> <b>Learn REST API</b> </summary>
+  <ol>
+    <li>
+      <a> HTTP Methods </a>
+      <ul>
+        <li><a> POST </a></li>
+        <li><a> GET </a></li>
+        <li><a> PUT </a></li>
+        <li><a> DELETE </a></li>
+        <li><a> OPTIONS </a></li>
+        <li><a> TRACE </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> HTTP Status Codes </a>
+      <ul>
+        <li><a> 1.X.X </a></li>
+        <li><a> 2.X.X </a></li>
+        <li><a> 3.X.X </a></li>
+        <li><a> 4.X.X </a></li>
+        <li><a> 5.X.X </a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+## 6. Database
+<details open>
+<summary> <b>Learn Database </b> </summary>
+  <ol>
+    <li>
+      <a> SQL </a>
+      <ul>
+        <li><a> My SQL </a></li>
+        <li><a> Postgress SQL </a></li>
+        <li><a> Oracle </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> No SQL </a>
+      <ul>
+        <li><a> Mongo Db </a></li>
+        <li><a> Cassandra </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Spring Data </a>
+      <ul>
+        <li><a> Spring Data JPA </a></li>
+        <li><a> Spring Data MongoDB </a></li>
+        <li><a> Spring Data JDBC </a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+## 7. Microservices
+<details open>
+<summary> <b>Learn Microservices </b> </summary>
+  <ol>
+    <li>
+      <a> Spring Cloud </a>
+      <ul>
+        <li><a> Spring Cloud Gateway </a></li>
+        <li><a> Spring Cloud Config </a></li>
+        <li><a> Spring Cloud Circuit Breaker </a></li>
+        <li><a> Spring Cloud OpenFeign </a></li>
+        <li><a> Spring Cloud Sleuth </a></li>
+        <li><a> Other Spring Cloud Projects (based on requirement) </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Devops </a>
+      <ul>
+        <li><a> Docker </a></li>
+        <li><a> Kubernates </a></li>
+        <li><a> Cloud (AWS, GCP, Azure) </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Microservices Patterns </a>
+      <ul>
+        <li><a> Aggregator </a></li>
+        <li><a> CQRS </a></li>
+        <li><a> SAGA </a></li>
+        <li><a> Event Sourcing </a></li>
+      </ul>
     </li>
   </ol>
 </details>
