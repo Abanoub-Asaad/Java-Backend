@@ -1,5 +1,5 @@
 # Java-Backend 
-> The start is always hard and confusing. I was doing a lot of search and watching a lot of videos to know how to start learning Backend with Java and to know the good resources to learn from. That's the reason why I created this repo, enjoy :)
+> The start is always hard and confusing. I was doing a lot of search and watching a lot of videos to know how to start learning Backend with Java and to know the good resources to learn from. That's why I created this repo, enjoy :)
 
 In this repository, you will find :
   - [A roadmap for learning Backend with Java](#roadmap)
