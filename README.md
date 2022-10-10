@@ -1,9 +1,8 @@
 # Java-Backend 
 In this repository, there's:
   - [A roadmap for learning Backend with Java](#roadmap)
-  - Resources for learning Java-Backend
-  - Important Notes
-  - [References](#references).
+  - [Resources for learning Java-Backend](#resources-for-learning-java-backend)
+  - [References of the roadmap](#references-of-the-roadmap).
 
 # Roadmap
 ## 1. Java
@@ -215,9 +214,14 @@ In this repository, there's:
   </ol>
 </details>
 
-# References
-| Topic            | Channel                                                      | Link |
-| ---------------- | ------------------------------------------------------------ | --- |
-| Java roadmap     | Daily Code Buffer             | https://youtu.be/lXrr1OohGF0 |
-| Spring Boot roadmap      | in28minutes              | https://youtu.be/gQHs8pnlagM |
-| Spring Boot roadmap interview     | in28minutes             | https://youtu.be/YNEUMmtO_6k |
+
+# Resources for learning Java-Backend
+### Docs & Articles
+- [Spring Framework Official Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
+### Videos
+- [Spring Framework Tutorial For Beginners | How to Create a Spring Application from Scratch?](https://youtu.be/VdnFTjeAiJo)
+
+# References of the roadmap
+- [Java Roadmap for Beginners](https://youtu.be/lXrr1OohGF0) 
+- [How to Master Spring Boot - Complete Spring Boot Roadmap](https://youtu.be/gQHs8pnlagM) 
+- [Learning Spring Boot in 2022 | Roadmap](https://youtu.be/YNEUMmtO_6k) 
