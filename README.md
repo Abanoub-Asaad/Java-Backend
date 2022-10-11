@@ -223,6 +223,8 @@ In this repository, you will find :
 - [Spring Framework Official Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
 ### Videos
 - [Spring Framework Tutorial For Beginners | How to Create a Spring Application from Scratch?](https://youtu.be/VdnFTjeAiJo)
+- [Java Servlets Tutorial | Java JSP Tutorial | Java Server-Side Programming For Beginners | Simplilearn](https://youtu.be/7AIjcZMo-V4)
+- [Spring MVC Tutorial with Spring Boot | Full Course](https://youtu.be/Ku3gsv7_bCc)
 
 # References of the roadmap
 - [Java Roadmap for Beginners](https://youtu.be/lXrr1OohGF0) 
