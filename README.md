@@ -215,6 +215,14 @@ In this repository, you will find :
         <li><a> Event Sourcing </a></li>
       </ul>
     </li>
+    <li>
+      <a> Microservices Queues </a>
+      <ul>
+        <li><a> SQS </a></li>
+        <li><a> Kafka </a></li>
+        <li><a> RabbitMQ </a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 
