@@ -1,5 +1,4 @@
 # Java-Backend 
-> The start is always hard and confusing. I was doing a lot of search and watching a lot of videos to know how to start learning Backend with Java and to know the good resources to learn from. That's why I created this repo, enjoy :)
 
 In this repository, you will find :
   - [A roadmap for learning Backend with Java](#roadmap)
@@ -230,10 +229,12 @@ In this repository, you will find :
 # Resources for learning Java-Backend
 ### Docs & Articles
 - [Spring Framework Official Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
-### Videos & Playlists
-- [Spring Framework Tutorial For Beginners | How to Create a Spring Application from Scratch?](https://youtu.be/VdnFTjeAiJo)
-- [Java Servlets Tutorial | Java JSP Tutorial | Java Server-Side Programming For Beginners | Simplilearn](https://youtu.be/7AIjcZMo-V4)
-- [Spring MVC Tutorial with Spring Boot | Full Course](https://youtu.be/Ku3gsv7_bCc)
+### YouTube Channels
+- [Amigoscode](https://www.youtube.com/c/amigoscode)
+- [Daily Code Buffer](https://www.youtube.com/c/DailyCodeBuffer)
+- [Java Brains](https://www.youtube.com/c/JavaBrainsChannel)
+- [in28minutes - Cloud Made Easy](https://www.youtube.com/user/rithustutorials)
+- [Java Guides](https://www.youtube.com/c/JavaGuides)
 
 # References of the roadmap
 - Java Roadmap for Beginners [🔗](https://youtu.be/lXrr1OohGF0) 
