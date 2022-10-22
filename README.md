@@ -228,7 +228,7 @@ In this repository, you will find :
 
 # Resources for learning Java-Backend
 ### Docs & Articles
-- [tutorialspoint | Java](https://www.tutorialspoint.com/java/)
+- [Tutorialspoint | Java](https://www.tutorialspoint.com/java/)
 - [Spring Framework Official Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
 ### YouTube Channels
 - [Amigoscode](https://www.youtube.com/c/amigoscode)
