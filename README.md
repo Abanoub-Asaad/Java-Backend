@@ -242,6 +242,8 @@ In this repository, you will find :
 - [Spring Start Here: Learn what you need and learn it well](https://www.amazon.com/Spring-Start-Here-Learn-learn/dp/1617298697)
 - [Spring Security in Action](https://www.amazon.com/Spring-Security-Action-Laurentiu-Spilca/dp/1617297739)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+### Helpful Links 
+- [Common Application Properties in Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 
 # References of the roadmap
 - Java Roadmap for Beginners [🔗](https://youtu.be/lXrr1OohGF0) 
