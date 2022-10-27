@@ -244,6 +244,8 @@ In this repository, you will find :
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 ### Helpful Links 
 - [Common Application Properties in Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
+- [Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
+- [Spring Interview Questions](https://www.interviewbit.com/spring-interview-questions/)
 
 # References of the roadmap
 - Java Roadmap for Beginners [🔗](https://youtu.be/lXrr1OohGF0) 
