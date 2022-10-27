@@ -80,29 +80,7 @@ In this repository, you will find :
   </ol>
 </details>
 
-## 3. Spring Security
-<details open>
-<summary> <b>Learn Spring Security</b> </summary>
-  <ol>
-    <li>
-      <a> Authentication </a>
-    </li>
-    <li>
-      <a> Authorization </a>
-    </li>
-    <li>
-      <a> OAuth2 </a>
-    </li>
-    <li>
-      <a> Form Authentications </a>
-    </li>
-    <li>
-      <a> JWT </a>
-    </li>
-  </ol>
-</details>
-
-## 4. Spring Boot
+## 3. Spring Boot
 <details open>
 <summary> <b>Learn Spring Boot</b> </summary>
   <ol>
@@ -124,7 +102,7 @@ In this repository, you will find :
   </ol>
 </details>
 
-## 5. REST API
+## 4. REST API
 <details open>
 <summary> <b>Learn REST API</b> </summary>
   <ol>
@@ -152,7 +130,7 @@ In this repository, you will find :
   </ol>
 </details>
 
-## 6. Database
+## 5. Database
 <details open>
 <summary> <b>Learn Database </b> </summary>
   <ol>
@@ -178,6 +156,28 @@ In this repository, you will find :
         <li><a> Spring Data MongoDB </a></li>
         <li><a> Spring Data JDBC </a></li>
       </ul>
+    </li>
+  </ol>
+</details>
+
+## 6. Spring Security
+<details open>
+<summary> <b>Learn Spring Security</b> </summary>
+  <ol>
+    <li>
+      <a> Authentication </a>
+    </li>
+    <li>
+      <a> Authorization </a>
+    </li>
+    <li>
+      <a> OAuth2 </a>
+    </li>
+    <li>
+      <a> Form Authentications </a>
+    </li>
+    <li>
+      <a> JWT </a>
     </li>
   </ol>
 </details>
