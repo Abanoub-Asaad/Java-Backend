@@ -230,6 +230,7 @@ In this repository, you will find :
 ### Docs & Articles
 - [Tutorialspoint | Java](https://www.tutorialspoint.com/java/)
 - [Spring Framework Official Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
+
 ### YouTube Channels
 > Here you can open the channel and check its awesome related videos and playlists.
 - [Amigoscode](https://www.youtube.com/c/amigoscode)
@@ -237,13 +238,17 @@ In this repository, you will find :
 - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel)
 - [in28minutes - Cloud Made Easy](https://www.youtube.com/user/rithustutorials)
 - [Java Guides](https://www.youtube.com/c/JavaGuides)
+
 ### Books
 - [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
 - [Spring Start Here: Learn what you need and learn it well](https://www.amazon.com/Spring-Start-Here-Learn-learn/dp/1617298697)
 - [Spring Security in Action](https://www.amazon.com/Spring-Security-Action-Laurentiu-Spilca/dp/1617297739)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+
 ### Helpful Links 
 - [Common Application Properties in Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
+- [Design Patterns](https://refactoring.guru/design-patterns)
+
 ### Interview Questions
 - [Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
 - [Spring Interview Questions](https://www.interviewbit.com/spring-interview-questions/)
@@ -251,6 +256,7 @@ In this repository, you will find :
 - [Back-End Developer Interview Questions](https://www.fullstack.cafe/blog/backend-developer-interview-questions)
 - [DBMS Interview Questions](https://www.interviewbit.com/dbms-interview-questions/)
 - [SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/)
+
 
 # References of the roadmap
 - Java Roadmap for Beginners [🔗](https://youtu.be/lXrr1OohGF0) 
