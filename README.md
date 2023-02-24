@@ -245,6 +245,10 @@ In this repository, you will find :
 - [Spring Security in Action](https://www.amazon.com/Spring-Security-Action-Laurentiu-Spilca/dp/1617297739)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
+### Projects
+- [Inbox App using Spring Boot, Spring Security, and Cassandra database](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTak0b5DnJ-x85MWMPaTdl4A)
+- [Full Stack Development with Java Spring Boot, React, and MongoDB ](https://www.youtube.com/watch?v=5PdEmeopJVQ&list=PLaC1bV0lrJOwmnrSmjDmnvrOGBIuaE3JA&index=1)
+
 ### Helpful Links 
 - [Common Application Properties in Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 - [Design Patterns](https://refactoring.guru/design-patterns)
