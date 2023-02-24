@@ -246,7 +246,7 @@ In this repository, you will find :
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
 ### Projects
-- [Inbox App using Spring Boot Spring Security, and Cassandra database](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTak0b5DnJ-x85MWMPaTdl4A)
+- [Inbox App using Spring Boot, Spring Security, and Cassandra database](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTak0b5DnJ-x85MWMPaTdl4A)
 - [Full Stack Development with Java Spring Boot, React, and MongoDB ](https://www.youtube.com/watch?v=5PdEmeopJVQ&list=PLaC1bV0lrJOwmnrSmjDmnvrOGBIuaE3JA&index=1)
 
 ### Helpful Links 
