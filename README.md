@@ -244,7 +244,7 @@ In this repository, you will find :
 - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel)
 - [in28minutes - Cloud Made Easy](https://www.youtube.com/user/rithustutorials)
 - [Java Guides](https://www.youtube.com/c/JavaGuides)
-
+- [Laur Spilca](https://www.youtube.com/@laurspilca)
 ### Books
 - [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
 - [Spring Start Here: Learn what you need and learn it well](https://www.amazon.com/Spring-Start-Here-Learn-learn/dp/1617298697)
